@@ -1,10 +1,11 @@
-voila>=0.1.8
+voila==0.1.6
+voila-gridstack
 ipyvuetify>=0.1.9
 voila-vuetify>=0.0.1a6
 ipywidgets==7.5.1
 pandas==1.0.4
 watermark==2.0.2
 numpy==1.18.5
-bqplot==0.12.12
+bqplot==0.11.5
 seaborn==0.10.1
 matplotlib==3.2.1
