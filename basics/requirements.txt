@@ -1,7 +1,7 @@
 ipywidgets==7.5.1
 pandas==1.0.4
 watermark==2.0.2
-numpy==1.18.5
+numpy==1.22.0
 bqplot==0.12.12
 seaborn==0.10.1
 matplotlib==3.2.1
